@@ -375,6 +375,10 @@ footer {
     }
 
     .plugin {
+        .row {
+            justify-content: center !important;
+        }
+
         text-align: center;
 
         h2 {
